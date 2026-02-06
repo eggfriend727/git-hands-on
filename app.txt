@@ -2,3 +2,4 @@ version=1
 timeout=60
 mode=staging
 win11_add
+raspi_add
