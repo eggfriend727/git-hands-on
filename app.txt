@@ -6,3 +6,4 @@ win11_add2
 raspi_add
 raspi_add2
 raspi_add3
+win11_add3
